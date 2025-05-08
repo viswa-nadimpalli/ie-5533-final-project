@@ -2,13 +2,6 @@
 
 This project implements a resume-based job recommendation system using Natural Language Processing (NLP). It compares two text similarity methods—TF-IDF and MiniLM (a transformer-based embedding model)—to match resumes with job descriptions.
 
-## 📁 Structure
-
-- `notebooks/`: Contains the main Jupyter notebooks for preprocessing, embedding, and evaluation.
-- `data/`: JSON job listings and sample resumes.
-- `scripts/`: Utility scripts (e.g., data loading, preprocessing).
-- `results/`: Charts and visualizations generated for the report.
-
 ## 🧠 Methods
 
 - **TF-IDF**: Frequency-based keyword matching using scikit-learn.

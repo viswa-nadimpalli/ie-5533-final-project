@@ -28,7 +28,3 @@ Participants ranked job matches based on perceived relevance to their resume (1 
 - `sentence-transformers`
 - `matplotlib`, `seaborn`
 - `PyMuPDF` (for PDF resume parsing)
-
-## 📌 Author
-
-Viswa Nadimpalli – Spring 2025 – IE5533 Final Project
